@@ -1,0 +1,771 @@
+- generic [active] [ref=e1]:
+  - link "欢迎进入 百度一下，你就知道，盲人用户进入读屏幕模式请按快捷键Ctrl加Alt加R；阅读详细操作说明请按快捷键Ctrl加Alt加问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e138]:
+        - link "百度首页" [ref=e139] [cursor=pointer]:
+          - /url: /
+        - link "设置" [ref=e140] [cursor=pointer]:
+          - /url: javascript:;
+        - link "登录" [ref=e141] [cursor=pointer]:
+          - /url: https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5
+      - generic [ref=e23]:
+        - generic:
+          - link [ref=e142] [cursor=pointer]:
+            - /url: /
+            - img "到百度首页" [ref=e143]
+          - generic [ref=e34]:
+            - textbox "昆明冶金高等专科学校怎么样" [ref=e36]: uestc
+            - button "百度一下" [ref=e63] [cursor=pointer]
+    - generic [ref=e150]:
+      - link [ref=e151] [cursor=pointer]:
+        - /url: https://chat.baidu.com/search?word=uestc&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&pd=csaitab&setype=csaitab&extParamsJson=%7B%22enter_type%22%3A%22search_a_tab%22%2C%22sa%22%3A%22vs_tab%22%2C%22apagelid%22%3A%2213694191516068390630%22%2C%22ori_lid%22%3A%2213694191516068390630%22%7D
+      - generic [ref=e153]: 网页
+      - link "图片" [ref=e154] [cursor=pointer]:
+        - /url: http://image.baidu.com/i?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&lid=be0b8aa1016ca6e6&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=uestc
+      - link "资讯" [ref=e155] [cursor=pointer]:
+        - /url: https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&ie=utf-8&word=uestc
+      - link "视频" [ref=e156] [cursor=pointer]:
+        - /url: /sf/vsearch?pd=video&tn=vsearch&lid=be0b8aa1016ca6e6&ie=utf-8&wd=uestc&rsv_spt=7&rsv_bp=1&f=8&oq=uestc&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI
+      - link "笔记" [ref=e157] [cursor=pointer]:
+        - /url: https://www.baidu.com/s?pd=note&rpf=pc&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=uestc
+      - link "地图" [ref=e158] [cursor=pointer]:
+        - /url: https://map.baidu.com/?newmap=1&ie=utf-8&from=pstab&s=s%26wd%3Duestc
+      - link "贴吧" [ref=e159] [cursor=pointer]:
+        - /url: http://tieba.baidu.com/f?fr=wwwt&ie=utf-8&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&kw=uestc
+      - link "文库" [ref=e160] [cursor=pointer]:
+        - /url: http://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=uestc
+      - link "更多" [ref=e161] [cursor=pointer]:
+        - /url: http://www.baidu.com/more/
+      - generic [ref=e162] [cursor=pointer]: 搜索工具
+    - generic [ref=e163]:
+      - generic [ref=e164]:
+        - table [ref=e166]:
+          - rowgroup [ref=e167]:
+            - row [ref=e168]:
+              - cell "相关搜索  UESTC全称  成都电子科技大学官网  uestc网上服务大厅  jwc.uestc.edu cn  湖南大学uestc  uesc    换一换 热搜榜 民生榜 财经榜  习近平瞩望的“人民城市” 1 巨浪击沉游轮游客漂流5小时 有人吓吐 热 2 92岁无儿无女老人离世留500万遗产 新 3 中国科技这3组数字真提气 4 全国最后一位长征女红军王全英逝世 新 5 王祖贤AI人脸授权代言游戏IP 热 6 “中药首富”马兴田夫妇被判赔14亿 热 7 《哥斯拉大战金刚》小女孩演员车祸去世 8 这些充电习惯正悄悄缩短手机寿命 9 人工智能专业“杀疯了” 分数普涨 新 10 重庆一医生因叫“叶绿素”走红 11 “养老服务师考试10月开考”不实 12 只剩72小时！中国果断出手跨国追索 13 张凌赫新剧又“黑红”了 新 14 山西：拒不整改永久封井 热 15 内地买家正在“扫货”香港豪宅 新" [ref=e169]:
+                - generic [ref=e170]:
+                  - generic [ref=e176]:
+                    - generic [ref=e177]: 相关搜索
+                    - generic [ref=e179]:
+                      - link " UESTC全称" [ref=e182] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=UESTC%E5%85%A8%E7%A7%B0&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rfqid=be0b8aa1016ca6e6&rsv_dl=0_prs_28616_1&rq=uestc&rsf=101636703
+                        - generic [ref=e183]:
+                          - generic [ref=e184]: 
+                          - generic [ref=e185]: UESTC全称
+                      - link " 成都电子科技大学官网" [ref=e188] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E6%88%90%E9%83%BD%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AE%98%E7%BD%91&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rfqid=be0b8aa1016ca6e6&rsv_dl=0_prs_28616_2&rq=uestc&rsf=101631161
+                        - generic [ref=e189]:
+                          - generic [ref=e190]: 
+                          - generic [ref=e191]: 成都电子科技大学官网
+                      - link " uestc网上服务大厅" [ref=e194] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=uestc%E7%BD%91%E4%B8%8A%E6%9C%8D%E5%8A%A1%E5%A4%A7%E5%8E%85&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rfqid=be0b8aa1016ca6e6&rsv_dl=0_prs_28616_3&rq=uestc&rsf=101636703
+                        - generic [ref=e195]:
+                          - generic [ref=e196]: 
+                          - generic [ref=e197]: uestc网上服务大厅
+                      - link " jwc.uestc.edu cn" [ref=e200] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=jwc.uestc.edu%20cn&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rfqid=be0b8aa1016ca6e6&rsv_dl=0_prs_28616_4&rq=uestc&rsf=101631161
+                        - generic [ref=e201]:
+                          - generic [ref=e202]: 
+                          - generic [ref=e203]: jwc.uestc.edu cn
+                      - link " 湖南大学uestc" [ref=e206] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E6%B9%96%E5%8D%97%E5%A4%A7%E5%AD%A6uestc&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rfqid=be0b8aa1016ca6e6&rsv_dl=0_prs_28616_5&rq=uestc&rsf=100631151
+                        - generic [ref=e207]:
+                          - generic [ref=e208]: 
+                          - generic [ref=e209]: 湖南大学uestc
+                      - link " uesc" [ref=e212] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=uesc&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rfqid=be0b8aa1016ca6e6&rsv_dl=0_prs_28616_6&rq=uestc&rsf=100631101
+                        - generic [ref=e213]:
+                          - generic [ref=e214]: 
+                          - generic [ref=e215]: uesc
+                  - generic [ref=e219]:
+                    - generic "百度热搜" [ref=e220]:
+                      - link " " [ref=e221] [cursor=pointer]:
+                        - /url: https://top.baidu.com/board?platform=pc&sa=pcindex_a_right
+                        - generic [ref=e222]: 
+                        - generic [ref=e223]: 
+                      - link " 换一换" [ref=e225] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                        - generic [ref=e226]: 
+                        - text: 换一换
+                    - generic [ref=e227]:
+                      - generic [ref=e228] [cursor=pointer]: 热搜榜
+                      - generic [ref=e229] [cursor=pointer]: 民生榜
+                      - generic [ref=e230] [cursor=pointer]: 财经榜
+                    - generic [ref=e232]:
+                      - generic [ref=e234]:
+                        - generic [ref=e235]: 
+                        - link "习近平瞩望的“人民城市”" [ref=e237] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9E%A9%E6%9C%9B%E7%9A%84%E2%80%9C%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E2%80%9D&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_1&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e239]:
+                        - generic [ref=e240]: "1"
+                        - link "巨浪击沉游轮游客漂流5小时 有人吓吐" [ref=e241] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%B7%A8%E6%B5%AA%E5%87%BB%E6%B2%89%E6%B8%B8%E8%BD%AE%E6%B8%B8%E5%AE%A2%E6%BC%82%E6%B5%815%E5%B0%8F%E6%97%B6%20%E6%9C%89%E4%BA%BA%E5%90%93%E5%90%90&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_2&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e242]: 热
+                      - generic [ref=e244]:
+                        - generic [ref=e245]: "2"
+                        - link "92岁无儿无女老人离世留500万遗产" [ref=e246] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=92%E5%B2%81%E6%97%A0%E5%84%BF%E6%97%A0%E5%A5%B3%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%96%E7%95%99500%E4%B8%87%E9%81%97%E4%BA%A7&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_3&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e247]: 新
+                      - generic [ref=e249]:
+                        - generic [ref=e250]: "3"
+                        - link "中国科技这3组数字真提气" [ref=e251] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_4&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e253]:
+                        - generic [ref=e254]: "4"
+                        - link "全国最后一位长征女红军王全英逝世" [ref=e255] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%85%A8%E5%9B%BD%E6%9C%80%E5%90%8E%E4%B8%80%E4%BD%8D%E9%95%BF%E5%BE%81%E5%A5%B3%E7%BA%A2%E5%86%9B%E7%8E%8B%E5%85%A8%E8%8B%B1%E9%80%9D%E4%B8%96&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=7d93vH0Qfy%2BknDjOYzWSDAiey60437PJRJBNet4QC9PQMLheGGoQ4zWpR48&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_5&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e256]: 新
+                      - generic [ref=e258]:
+                        - generic [ref=e259]: "5"
+                        - link "王祖贤AI人脸授权代言游戏IP" [ref=e260] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83%E4%BB%A3%E8%A8%80%E6%B8%B8%E6%88%8FIP&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_6&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e261]: 热
+                      - generic [ref=e263]:
+                        - generic [ref=e264]: "6"
+                        - link "“中药首富”马兴田夫妇被判赔14亿" [ref=e265] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E2%80%9C%E4%B8%AD%E8%8D%AF%E9%A6%96%E5%AF%8C%E2%80%9D%E9%A9%AC%E5%85%B4%E7%94%B0%E5%A4%AB%E5%A6%87%E8%A2%AB%E5%88%A4%E8%B5%9414%E4%BA%BF&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_7&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e266]: 热
+                      - generic [ref=e268]:
+                        - generic [ref=e269]: "7"
+                        - link "《哥斯拉大战金刚》小女孩演员车祸去世" [ref=e270] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E3%80%8A%E5%93%A5%E6%96%AF%E6%8B%89%E5%A4%A7%E6%88%98%E9%87%91%E5%88%9A%E3%80%8B%E5%B0%8F%E5%A5%B3%E5%AD%A9%E6%BC%94%E5%91%98%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_8&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e272]:
+                        - generic [ref=e273]: "8"
+                        - link "这些充电习惯正悄悄缩短手机寿命" [ref=e274] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E8%BF%99%E4%BA%9B%E5%85%85%E7%94%B5%E4%B9%A0%E6%83%AF%E6%AD%A3%E6%82%84%E6%82%84%E7%BC%A9%E7%9F%AD%E6%89%8B%E6%9C%BA%E5%AF%BF%E5%91%BD&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_9&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e276]:
+                        - generic [ref=e277]: "9"
+                        - link "人工智能专业“杀疯了” 分数普涨" [ref=e278] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A%E2%80%9C%E6%9D%80%E7%96%AF%E4%BA%86%E2%80%9D%20%E5%88%86%E6%95%B0%E6%99%AE%E6%B6%A8&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_10&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e279]: 新
+                      - generic [ref=e281]:
+                        - generic [ref=e282]: "10"
+                        - link "重庆一医生因叫“叶绿素”走红" [ref=e283] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%8C%BB%E7%94%9F%E5%9B%A0%E5%8F%AB%E2%80%9C%E5%8F%B6%E7%BB%BF%E7%B4%A0%E2%80%9D%E8%B5%B0%E7%BA%A2&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_11&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e285]:
+                        - generic [ref=e286]: "11"
+                        - link "“养老服务师考试10月开考”不实" [ref=e287] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E2%80%9C%E5%85%BB%E8%80%81%E6%9C%8D%E5%8A%A1%E5%B8%88%E8%80%83%E8%AF%9510%E6%9C%88%E5%BC%80%E8%80%83%E2%80%9D%E4%B8%8D%E5%AE%9E&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_12&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e289]:
+                        - generic [ref=e290]: "12"
+                        - link "只剩72小时！中国果断出手跨国追索" [ref=e291] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%8F%AA%E5%89%A972%E5%B0%8F%E6%97%B6%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%9E%9C%E6%96%AD%E5%87%BA%E6%89%8B%E8%B7%A8%E5%9B%BD%E8%BF%BD%E7%B4%A2&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_13&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e293]:
+                        - generic [ref=e294]: "13"
+                        - link "张凌赫新剧又“黑红”了" [ref=e295] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%89%A7%E5%8F%88%E2%80%9C%E9%BB%91%E7%BA%A2%E2%80%9D%E4%BA%86&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_14&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e296]: 新
+                      - generic [ref=e298]:
+                        - generic [ref=e299]: "14"
+                        - link "山西：拒不整改永久封井" [ref=e300] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%B1%B1%E8%A5%BF%EF%BC%9A%E6%8B%92%E4%B8%8D%E6%95%B4%E6%94%B9%E6%B0%B8%E4%B9%85%E5%B0%81%E4%BA%95&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_1_15_15&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e301]: 热
+                      - generic [ref=e303]:
+                        - generic [ref=e304]: "15"
+                        - link "内地买家正在“扫货”香港豪宅" [ref=e305] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%86%85%E5%9C%B0%E4%B9%B0%E5%AE%B6%E6%AD%A3%E5%9C%A8%E2%80%9C%E6%89%AB%E8%B4%A7%E2%80%9D%E9%A6%99%E6%B8%AF%E8%B1%AA%E5%AE%85&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=ed41NjLAJHGPb3xNFXmHAu7W9iwDSAZi%2FsN4bn4AX0CFYgPCOCTjcq5G%2Fa0&rqid=be0b8aa1016ca6e6&rsf=c4d5520bdc121e83a2af65f30c872106_16_30_16&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e306]: 新
+        - generic [ref=e307]:
+          - generic [ref=e308]:
+            - generic [ref=e314]:
+              - generic [ref=e315]:
+                - generic [ref=e320]:
+                  - link "电子科技大学" [ref=e321] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=DtyP3PUlI-ux09C4mEcS8a4kJCdxFPi8aAOF7GEuNPJyS-ZSFmecpcRCCZ4V4xHtJCFHjAxq-1cZQ4wfQKOGdK
+                  - generic [ref=e322]: 四川 理工类 公办 本科 | 双一流 985 211 强基计划 教育部直属
+                - link [ref=e324] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=GmuMesg9igQCKhDx3nxYxbk0ppPg_mghaBd_tX5uwCFOvvoNnANbKjEKofQC8HkoWrinPtLONWZ0M-w1HQTtxT3WZrgDfCBagiEItvbrFhnPB8cJWBrgOJ8fl--y0ANn
+                  - button "+ 对比" [ref=e325]
+              - generic [ref=e330]:
+                - link "分数线" [ref=e332] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=rKjXPeXCeM62fVDEDIK8OGCHv-SuCp69TIAbVi67-k71De26m1-yUzkkFWV3elmgBuAM1jRBFjdHaAeFh7pchOHZ9GC6MbbxWCIIl4O-Gey
+                - link "院校问答" [ref=e336] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUv-eng59SUWnTwzaOHH7y2QoEDXpjtrxoPSDhoP1lmZfIefZClHYqVCY-r5t2uo98o5_mnAL7Pd5mob6HdJq9Hc31V5V5vccnUtu4KWW857mC6PP4rIaYGY1FAMaBwTvOsn4sQJUdVsRGkqUSAj2pOoGRNLMHgxsE0PIIzsM5XEhoIZ5NBY43u7CALzt4fCLu_
+                - link "招生计划" [ref=e340] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=U0TGQBbWNhVdEAzw6kjjkCQ_S6-Lz82_A0_xq0w5XQGpwwe1o26xq8R-nBBu77ZP-2UUNV7a7rg4OGXNc6T-J_
+                - link "开设专业" [ref=e344] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=rKjXPeXCeM62fVDEDIK8OGCHv-SuCp69TIAbVi67-k71De26m1-yUzkkFWV3elmgIhWgduuU58YExqA9ko6c4Oo6ievJNVHoySk_6y73Xoq
+                - link "招办答疑" [ref=e348] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=2RxYbINXCycW7o2dJxiF8-6YPCHJFzTviP7ZlotmK0pWggrINmnxN3Xt4N18y-Bk2coKy8HDG2mF3fv-AMW5z6ijIaQXbzlRabMHCY5UKUW
+                - link "学校排名" [ref=e352] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=DtyP3PUlI-ux09C4mEcS8a4kJCdxFPi8aAOF7GEuNPJyS-ZSFmecpcRCCZ4V4xHtJCFHjAxq-1cZQ4wfQKOGdK
+                - link "校园生活" [ref=e356] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsTdGWh7EaTBiKii4a23PjF1a2G-BsI7rnz16oobWVEQvTcOPWs4YpowG9CQvXtyp40VwuM7FwuiN_LFPHvYC3R3
+                - link "AI志愿报告" [ref=e360] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUv-eng59SUWnTwzaOHH7y2QV_dhm6y5q4U7sgVQTtFxL36gM3wuvbA6hVA22q_Y1h_
+              - generic [ref=e366]:
+                - link "宣传片 " [ref=e368] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=OihxbcFMONzKukUG4vZUxa17XZxMy2q0jFp2_PBkQCBHTu-nk_pmbhdmwKY1YTPGceKABHyFQKluoVyoGFz7oCobPKt4ahgAQNYI7tnu0dS
+                  - generic [ref=e371]:
+                    - generic [ref=e372]: 宣传片
+                    - generic [ref=e373]: 
+                - link "视频逛大学 " [ref=e376] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=km_9IRor6uqBKR-X5z-EhCgK2PCQY7JYbVWs4azRDc_U1Nk2Vs2DQFFEQL8NPztMcG39EP6Sa6-PuLKZONPG7Ne-9jxCbCvTRAAzpNLX-g-YWbfPstz7aeqQ8IafK6hzvTrKdsZiRPmMxy6Zo-zDtO9V4h7zv3ogc1PrOHql3sC
+                  - generic [ref=e379]:
+                    - generic [ref=e380]: 视频逛大学
+                    - generic [ref=e381]: 
+                - link "校园实拍" [ref=e384] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=2RxYbINXCycW7o2dJxiF8-8kYeo4RMuHC1tivg-u0LuO4KNeuMZboF0pukXUx-aCr5H-mGz4g6dAPANCjhwtZqv9IFTNBwjg_nJBoofdLMfs8ocbSEWRfmZXIQ1eGi5lF5dLCxJnPIEBcmvBLKGiN-AsKiI2PhgeK68BJMnEGyu
+                - link "校园设施" [ref=e391] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=1iAsf1OyI_njMMbGAxBGYBNvHhVXjpfQKNkWT2ZGqNyEgiYtxwJIMsN6UcnCu5bgY63SheCb4ba7HN_mcv-ouuxOMGMmjyVtARpmm75aobV60Nzj2I5oV3F0MsuqyG_z
+              - paragraph [ref=e398]:
+                - generic [ref=e399]: 百度百科
+                - generic [ref=e400]:
+                  - text: ...
+                  - link "详情" [ref=e401] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=j0gXVr9Vq_MOKFjPmeohkyplR1RrAB34wqmg45OZQ7nx4h3Ydo6cLMiNELNPhteDGweliOOe16v-YlY6fKuuI8FrcS4dli6tk9bgEfjsr5OZMa85HSVlUSbnEiAW6H_scQ-s2ClesyWO6BLpjq9sQAPgSa90nhL-T6EacJVCPpkv-pgI2U-I6exmuPo3t9FJ
+                    - text: 详情
+                    - generic [ref=e402]: 
+                - text: 电子科技大学，简称“成电”（UESTC），坐落于四川省成都市，是中华人民共和国教育部直属的全国重点大学，国家首批“211工程”、“985工程”重点建设大学，首批国家“双一流”建设高校。入选111计划、101计划、强基计划、珠峰计划、英才计划、卓越工程师教育培养计划、国家建设高水平大学公派研究生项目、国家卓越工程师学院建设高校。是一所以电子信息科学技术为核心，以工为主，理工渗透，理、工、管、文、医协调发展的多科性研究型大学，被誉为“中国民族电子工业摇篮”和“中国电子类院校排头兵”。学校前身为1956年9月创办的成都电讯工程学院，是在周恩来总理的亲自部署下，由交通大学的电讯工程系、华南工学院的电讯系和南京工学院的无线电系合并创建而成，是新中国第一所无线电大学；1960年被列为全国重点高等学校；1961年划归国防部国防科学技术委员会管理，被确定为七所国防工业院校之一；1970年划归四机部和解放军总参通信兵部共同管理；1988年更名为电子科技大学；2000年由原信息产业部主管划转为教育部主管；2017年进入国家建设“世界一流大学”A类高校行列。截至2025年9月，学校设有清水河、沙河、九里堤三个校区（总占地面积3700余亩）；设有40余个教学科研单位、研究机构；有一级学科博士学位授权点23个，一级学科硕士学位授权点33个，博士专业学位授权点4个、硕士专业学位授权点13个；教职工3800余人，在读本、硕、博学生44000余人。截至2024年11月，学校有65个本科专业。
+              - link "清水河校区：四川省成都市高新区西源大道2006号 展开" [ref=e405] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=OihxbcFMONzKukUG4vZUxnS6nZuLhkFck9mknXkRYO78lI5_7BGy8EgMdmNu_rgVCwPb7aeBePOK6RVjr6GhAIYs7ZC1EmV3D_Z5wDmbkhwYZCuJNOfhZ9QKYh9SS4hYSRA8qWCGtuHB4sWKw8NA2-MupSfh_GQcOBtsGAWfXQBht4zgcii1HCHZAVDq36TSECjT43qNgv87Q2DJ6Fpnr8AcYoBy_X9KiM0KfhNZ3lk6_163JstFsim60Nfki-p9Do3WavUvCxJmPNQi5zFw-jCWZ6MTvIYbTKcygLP12iFz1Fab0geZYqUQiPtCXdxNCOm1GCQ8d4-FG3t19Gg7UeIuqR9iirRRD-rGm_TztbCQEIA8z3WbGWsjwd-kCRJ9ZCX5BjFhTEQhHSqk0ClcxK
+                - generic [ref=e406]:
+                  - generic [ref=e407]:
+                    - generic [ref=e408]: 
+                    - text: 清水河校区：四川省成都市高新区西源大道2006号
+                  - generic [ref=e410]:
+                    - text: 展开
+                    - generic [ref=e411]: 
+              - generic [ref=e412]:
+                - link "招生官网" [ref=e414] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsWO3EU0NkwsPEzi6lor5iNdkAbtW_5tXoEHY53dkgSeR
+                  - generic [ref=e415]:
+                    - generic [ref=e416]: 
+                    - text: 招生官网
+                - link "学校官网" [ref=e418] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsTdGWh7EaTBiKii4a23PjF_SKZQKM16L9TeL-rgcA938
+                  - generic [ref=e419]:
+                    - generic [ref=e420]: 
+                    - text: 学校官网
+                - generic [ref=e423] [cursor=pointer]:
+                  - generic [ref=e424]: 
+                  - text: 招办电话
+              - link " 招生资讯： 电子科技大学2026年全日制普通本科招生章程 电子科技大学2026年全日制普通本科招生章程 电子科技大学2026年全日制普通本科招生章程 " [ref=e425] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUu1bfS5B32bQmddt3WY-VpBk2qdM1Ye6M-0COYuxCO_IErB97-OZ6Gqk4AzlfADvkSAARfX4htAwtl2ccTJrqRT
+                - generic [ref=e426]: 
+                - generic [ref=e427]:
+                  - generic [ref=e428]: 招生资讯：
+                  - generic [ref=e430]:
+                    - paragraph [ref=e432]: 电子科技大学2026年全日制普通本科招生章程
+                    - paragraph [ref=e434]: 电子科技大学2026年全日制普通本科招生章程
+                    - paragraph [ref=e436]: 电子科技大学2026年全日制普通本科招生章程
+                - generic [ref=e437]: 
+              - generic [ref=e438]:
+                - generic [ref=e439]:
+                  - link "校友答疑" [ref=e440] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NhdAEztwxeYPBe5tPqvfHtFnu_evVpik8YbUGhOu5xSXmLfnDlJDumXXjGjMdoDod3dEM3_qIcOh8456AZataXa3oyGgjZV5wAqeMlCNxZa
+                  - link "去提问" [ref=e441] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NhdAEztwxeYPBe5tPqvfHtFnu_evVpik8YbUGhOu5xSXmLfnDlJDumXXjGjMdoDod3dEM3_qIcOh8456AZataXa3oyGgjZV5wAqeMlCNxZa
+                    - text: 去提问
+                    - generic [ref=e442]: 
+                - generic [ref=e443]:
+                  - link "电子科技大学沙河校区和本部有何区别 92回答 · 6月30日" [ref=e445] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=Cw4Kz1f4yX3lVM2A994jM7vWZ0Rp5k9yTxxEusJTCnwFnlUqi3PbPVvizGZc-OHaBKFSdyNneipWThngeB7IwkhIbgWTV16oHj4Ji9Yl5zD0rN0nSuPfYho9I1QNA4P7lXlhUJmmynfmU_5cUIdSja
+                    - generic [ref=e446]: 电子科技大学沙河校区和本部有何区别
+                    - generic [ref=e447]:
+                      - generic [ref=e448]: 92回答
+                      - generic [ref=e449]: ·
+                      - generic [ref=e450]: 6月30日
+                  - link "电子科技大学26级新生，该专业需提前准备什么 10回答 · 2天前" [ref=e453] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=Cw4Kz1f4yX3lVM2A994jM7vWZ0Rp5k9yTxxEusJTCnwFnlUqi3PbPVvizGZc-OHasx7YXG50lgnYPBRet13Qnd94_Y4P4UGUFQfmLxBvZDUtmvhBhMy3ZJ-mh1ZF7ouFx17xdFux2Tce8Es2kYo5Eq
+                    - generic [ref=e454]: 电子科技大学26级新生，该专业需提前准备什么
+                    - generic [ref=e455]:
+                      - generic [ref=e456]: 10回答
+                      - generic [ref=e457]: ·
+                      - generic [ref=e458]: 2天前
+            - generic [ref=e463]:
+              - generic [ref=e465]:
+                - link "招录信息" [ref=e466] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=Cw4Kz1f4yX3lVM2A994jMwKT9xRhXFMMNOpflsCZzyS3kQDuO2xGr6XMxtUWqSfLae0cRPtBDfsAQmu3Mqkk3T-rV4ekv4KsI13nV3aUYfbuzCKlMJKS-1Vt21BtGkb5FIpUWlOMVftRd_4ZGeJR-_
+                  - paragraph [ref=e468]:
+                    - generic [ref=e469]: 招录信息
+                - link "电子科技大学2026年全日制普通本科招生章程" [ref=e471] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUu1bfS5B32bQmddt3WY-VpBk2qdM1Ye6M-0COYuxCO_IErB97-OZ6Gqk4AzlfADvkSAARfX4htAwtl2ccTJrqRT
+              - generic [ref=e479]:
+                - generic [ref=e480]: 录取分数
+                - generic [ref=e481]: 专业分数
+                - generic [ref=e482]: 招生计划
+                - generic [ref=e483]: 开设专业
+              - generic [ref=e484]: 加载中...
+            - generic [ref=e490]:
+              - generic [ref=e491]:
+                - heading [level=3] [ref=e492]:
+                  - link "院校排名" [ref=e493] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=DtyP3PUlI-ux09C4mEcS8a4kJCdxFPi8aAOF7GEuNPJyS-ZSFmecpcRCCZ4V4xHtJCFHjAxq-1cZQ4wfQKOGdK
+                - generic [ref=e495] [cursor=pointer]: 
+              - generic [ref=e498]:
+                - link "33 软科" [ref=e500] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsTdGWh7EaTBiKii4a23PjF_UFvgRtBXyYxHPB8Fw52cwyfdKrgjzXX_BNjm6p6OW1fGMf3bSZ9gljiPIpsn_AvCEPzMfD1M3-iWViYzxxgss
+                  - generic [ref=e501]: "33"
+                  - generic [ref=e502]: 软科
+                - link "30 校友会" [ref=e504] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsTdGWh7EaTBiKii4a23PjF_UFvgRtBXyYxHPB8Fw52cwyfdKrgjzXX_BNjm6p6OW1fGMf3bSZ9gljiPIpsn_AvFrGRPI6zeUNu4QpewxEh-t
+                  - generic [ref=e505]: "30"
+                  - generic [ref=e506]: 校友会
+                - link "519 QS" [ref=e508] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsTdGWh7EaTBiKii4a23PjF_UFvgRtBXyYxHPB8Fw52cwyfdKrgjzXX_BNjm6p6OW1fGMf3bSZ9gljiPIpsn_AvDwej-cshBFcOdFWpzYugS3
+                  - generic [ref=e509]: "519"
+                  - generic [ref=e510]: QS
+                - link "301-350 泰晤士" [ref=e512] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsTdGWh7EaTBiKii4a23PjF_UFvgRtBXyYxHPB8Fw52cwyfdKrgjzXX_BNjm6p6OW1fGMf3bSZ9gljiPIpsn_AvFHybLQHZiepDlzjMn2jqxI
+                  - generic [ref=e513]: 301-350
+                  - generic [ref=e514]: 泰晤士
+            - generic [ref=e518]:
+              - heading [level=3] [ref=e519]:
+                - link "院校精选视频" [ref=e520] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=1iAsf1OyI_njMMbGAxBGY3Z8RQmYQ6Kj0TRIZegDfD_jQhGq3qXKWGOm14WRD6IWqxwubDx8IXqEw9mHlfbRRe5YMLPndBZqtNXtty7NBb-ITZcfbAJf_ota7jdIhoSH2afn81uXIG-7c5NIwEJeV1WBp03ScxqVmMzti8R5xmFZHJWA5VUvigPDo7eNT4lON5zABRI0JlXv6pnVcER1FtMcru9FGPkEmJ8mC94UMZx9WMwAUgTCOcvMIsQ-hY9AxPKZ2HVSRYvqKCTa76A57-0FCYk7fkPp4X73pqovxHdghJ95GlYNuIPcWxVrBwFefJ0gCN0_p1vaoFj0WI22UzkpqNy1MYGpe0Jz_RypF3PGVaRX6uV9wfbcU17K-pCh
+              - generic [ref=e522]:
+                - generic [ref=e523] [cursor=pointer]: 
+                - generic [ref=e527]:
+                  - link " 00:01:01 电子科技大学第1专业，就业现状与报考性价比分析！#金榜同行人#" [ref=e529] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=j0gXVr9Vq_MOKFjPmeohkrQJc-qNUiyDGFqNAk86qtdMtWhJjqQC5dNnC7eMKF32Cdv0ePiK5R-LgtUdUpcnM7_X-jWKFZ8BYAr25jfiNAsEf0Q0b6Z4EMRO58mJ-Mcq
+                    - generic [ref=e533]:
+                      - generic [ref=e534]: 
+                      - generic [ref=e536]: 00:01:01
+                    - generic [ref=e537]: 电子科技大学第1专业，就业现状与报考性价比分析！#金榜同行人#
+                  - link " 00:02:46 1000多与10000多位次，电子科大如何低分捡漏" [ref=e539] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=5sXWVs5M4CPloE4pE-2YTNB2g2DpVj3y1UpWZd-wIKzRpNCfm1mbsIveh2WdD2j5VKFaDmnGEbAfMfOxYFt0SAtFM2zPhy0xVkMpT8eWTlMozFCH2BFkK9Rvk6C00aZV
+                    - generic [ref=e543]:
+                      - generic [ref=e544]: 
+                      - generic [ref=e546]: 00:02:46
+                    - generic [ref=e547]: 1000多与10000多位次，电子科大如何低分捡漏
+                  - link " 00:02:29 最“硬核”学科来了！国家给高考生发金饭碗" [ref=e549] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=5sXWVs5M4CPloE4pE-2YTNB2g2DpVj3y1UpWZd-wIKzRpNCfm1mbsIveh2WdD2j5VKFaDmnGEbAfMfOxYFt0S0YfixoolL-EwcYsUWuUPJ4EMGq0rkwSyu2qYSkRrh7H
+                    - generic [ref=e553]:
+                      - generic [ref=e554]: 
+                      - generic [ref=e556]: 00:02:29
+                    - generic [ref=e557]: 最“硬核”学科来了！国家给高考生发金饭碗
+                  - link " 00:03:35 航空航天专业怎么选 院校推荐及专业优势解读" [ref=e559] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=5sXWVs5M4CPloE4pE-2YTNB2g2DpVj3y1UpWZd-wIKzRpNCfm1mbsIveh2WdD2j5VKFaDmnGEbAfMfOxYFt0S2uAV1oTmwBGJiu42TGH_-XFenkWW2oNBefHoycrk3Kq
+                    - generic [ref=e563]:
+                      - generic [ref=e564]: 
+                      - generic [ref=e566]: 00:03:35
+                    - generic [ref=e567]: 航空航天专业怎么选 院校推荐及专业优势解读
+                  - link " 00:02:00 居然有大学在就业时，能跟清华北大平起平坐，赶紧瞧瞧！" [ref=e569] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=rKjXPeXCeM62fVDEDIK8OBlTdI4Cu7MGjFHsM63HeyhWazpqUyP8RycAADqY-XStdv7jqvlpnCdEltCgewWPzAz023mE-YpsUqs0nEZyJLb-K86eOFXGCc8KyPtfZKLu
+                    - generic [ref=e573]:
+                      - generic [ref=e574]: 
+                      - generic [ref=e576]: 00:02:00
+                    - generic [ref=e577]: 居然有大学在就业时，能跟清华北大平起平坐，赶紧瞧瞧！
+                  - link " 00:03:30 国家部委直属“包分配”高校清单（上）" [ref=e579] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=rKjXPeXCeM62fVDEDIK8OBlTdI4Cu7MGjFHsM63HeyhWazpqUyP8RycAADqY-XStdv7jqvlpnCdEltCgewWPz05lZDppEq2qQYbhF1kU8oFoUPXJ6zhH73RN0d6l6s9n
+                    - generic [ref=e583]:
+                      - generic [ref=e584]: 
+                      - generic [ref=e586]: 00:03:30
+                    - generic [ref=e587]: 国家部委直属“包分配”高校清单（上）
+                  - link " 00:02:05 这三个前景好的专业 一定要优先考虑" [ref=e589] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=5sXWVs5M4CPloE4pE-2YTNB2g2DpVj3y1UpWZd-wIKzRpNCfm1mbsIveh2WdD2j5VKFaDmnGEbAfMfOxYFt0SA93XK16VlpmnSZ8xp88FH-3gVVR5w6AicVGas7QtzJB
+                    - generic [ref=e593]:
+                      - generic [ref=e594]: 
+                      - generic [ref=e596]: 00:02:05
+                    - generic [ref=e597]: 这三个前景好的专业 一定要优先考虑
+                  - link " 00:01:02 没有竞赛经验，重点关注只有面试没有笔试的“强基16校”" [ref=e599] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=5sXWVs5M4CPloE4pE-2YTNB2g2DpVj3y1UpWZd-wIKzRpNCfm1mbsIveh2WdD2j5VKFaDmnGEbAfMfOxYFt0S4A5IZPSeDzxc5ohqh9DgxjdyxHHSGdPxPHY5rFlX2By
+                    - generic [ref=e603]:
+                      - generic [ref=e604]: 
+                      - generic [ref=e606]: 00:01:02
+                    - generic [ref=e607]: 没有竞赛经验，重点关注只有面试没有笔试的“强基16校”
+                  - link " 00:01:24 想读研先选校，这些学校上岸率直超985" [ref=e609] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=rKjXPeXCeM62fVDEDIK8OBlTdI4Cu7MGjFHsM63HeyhWazpqUyP8RycAADqY-XStdv7jqvlpnCdEltCgewWPzGnzBoiN7SBUHXKYJmEv3Eo3g2zboKaXUxkXhZlQ3OzC
+                    - generic [ref=e613]:
+                      - generic [ref=e614]: 
+                      - generic [ref=e616]: 00:01:24
+                    - generic [ref=e617]: 想读研先选校，这些学校上岸率直超985
+                  - link " 00:04:53 想学电子信息专业和计算机专业，考虑下视频中提到的几所院校" [ref=e619] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=5sXWVs5M4CPloE4pE-2YTNB2g2DpVj3y1UpWZd-wIKzRpNCfm1mbsIveh2WdD2j5VKFaDmnGEbAfMfOxYFt0SB4CEND3VVcide_cLEhCOsqzmSMAMcrn1THdXVjUeafg
+                    - generic [ref=e623]:
+                      - generic [ref=e624]: 
+                      - generic [ref=e626]: 00:04:53
+                    - generic [ref=e627]: 想学电子信息专业和计算机专业，考虑下视频中提到的几所院校
+                  - link " 00:01:54 这六所大学进华为最容易" [ref=e629] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=rKjXPeXCeM62fVDEDIK8OBlTdI4Cu7MGjFHsM63HeyhWazpqUyP8RycAADqY-XStdv7jqvlpnCdEltCgewWPzJyZzApfmvzGj2J0AG9bdqiRE979nSNpqnERuhAO-Tlj
+                    - generic [ref=e633]:
+                      - generic [ref=e634]: 
+                      - generic [ref=e636]: 00:01:54
+                    - generic [ref=e637]: 这六所大学进华为最容易
+                  - link " 00:04:06 新工科时代，就业为王的时代，四电四邮怎么报？" [ref=e639] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=5sXWVs5M4CPloE4pE-2YTNB2g2DpVj3y1UpWZd-wIKzRpNCfm1mbsIveh2WdD2j5VKFaDmnGEbAfMfOxYFt0SCr5p7mlRkIWPHl9_VQ-0gcLblAxbtr5pGPtjEGBju4e
+                    - generic [ref=e643]:
+                      - generic [ref=e644]: 
+                      - generic [ref=e646]: 00:04:06
+                    - generic [ref=e647]: 新工科时代，就业为王的时代，四电四邮怎么报？
+                  - link " 00:02:52 四川省有哪些，宝藏大学和专业？" [ref=e649] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=5sXWVs5M4CPloE4pE-2YTNB2g2DpVj3y1UpWZd-wIKzRpNCfm1mbsIveh2WdD2j5VKFaDmnGEbAfMfOxYFt0SFuGSKvb56B0qH-pstucqL12Wu5MEgG4XI_Gw9t0vkTd
+                    - generic [ref=e653]:
+                      - generic [ref=e654]: 
+                      - generic [ref=e656]: 00:02:52
+                    - generic [ref=e657]: 四川省有哪些，宝藏大学和专业？
+                  - link " 00:02:07 北邮、西电、电子科大三个院校区别不大" [ref=e659] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=j0gXVr9Vq_MOKFjPmeohkrQJc-qNUiyDGFqNAk86qtdMtWhJjqQC5dNnC7eMKF32TcOeNxP_oKnSpoPJDDxUDAqV2mzrj9sGXLSv01d92jiWbys9M9QZE4JNSW00LkEY
+                    - generic [ref=e663]:
+                      - generic [ref=e664]: 
+                      - generic [ref=e666]: 00:02:07
+                    - generic [ref=e667]: 北邮、西电、电子科大三个院校区别不大
+                  - link " 00:03:24 别只盯着清北复交!这三所985是工科王牌" [ref=e669] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=5sXWVs5M4CPloE4pE-2YTNB2g2DpVj3y1UpWZd-wIKzRpNCfm1mbsIveh2WdD2j5VKFaDmnGEbAfMfOxYFt0SB254zMVnXJv03aFJz1WeIQ26gV--AUzW8BDjMQ18Eyn
+                    - generic [ref=e673]:
+                      - generic [ref=e674]: 
+                      - generic [ref=e676]: 00:03:24
+                    - generic [ref=e677]: 别只盯着清北复交!这三所985是工科王牌
+                - link "查看更多 ":
+                  - /url: http://www.baidu.com/link?url=1iAsf1OyI_njMMbGAxBGY3Z8RQmYQ6Kj0TRIZegDfD_jQhGq3qXKWGOm14WRD6IWqxwubDx8IXqEw9mHlfbRRe5YMLPndBZqtNXtty7NBb-ITZcfbAJf_ota7jdIhoSH2afn81uXIG-7c5NIwEJeV1WBp03ScxqVmMzti8R5xmFZHJWA5VUvigPDo7eNT4lON5zABRI0JlXv6pnVcER1FtMcru9FGPkEmJ8mC94UMZx9WMwAUgTCOcvMIsQ-hY9AxPKZ2HVSRYvqKCTa76A57-0FCYk7fkPp4X73pqovxHdghJ95GlYNuIPcWxVrBwFefJ0gCN0_p1vaoFj0WI22UzkpqNy1MYGpe0Jz_RypF3PGVaRX6uV9wfbcU17K-pCh
+                  - generic [ref=e678] [cursor=pointer]:
+                    - generic [ref=e679]: 查看更多
+                    - generic [ref=e680]: 
+          - generic [ref=e681]:
+            - generic [ref=e682]: 搜索智能聚合
+            - generic [ref=e683]: 
+          - generic [ref=e690]:
+            - generic [ref=e691]:
+              - generic [ref=e700]:
+                - heading [level=2] [ref=e701]:
+                  - mark [ref=e702]: 电子科技大学
+                - paragraph [ref=e703]:
+                  - mark [ref=e704]:
+                    - text: ‌
+                    - strong [ref=e705]: UESTC 就是电子科技大学
+                    - text: ‌
+                  - text: ，这是一所位于四川成都的教育部直属重点大学，也是大家常说的“成电”。如果你想访问学校官网，可以直接点击
+                  - link "电子科技大学官网" [ref=e706] [cursor=pointer]:
+                    - /url: https://www.uestc.edu.cn/
+                  - text: 或
+                  - link "本科招生网" [ref=e707] [cursor=pointer]:
+                    - /url: https://zs.uestc.edu.cn/
+                  - text: 获取最新信息 。‌‌
+                  - button "参考文档，单指双击即可执行" [ref=e708]:
+                    - generic [ref=e709]: 百科
+              - generic [ref=e712]:
+                - generic [ref=e715]:
+                  - generic [ref=e716]:
+                    - generic [ref=e717]:
+                      - generic [ref=e718]: 这串字母到底是啥全称
+                      - text: 
+                    - list [ref=e729]:
+                      - listitem [ref=e730]:
+                        - mark [ref=e731]:
+                          - text: ‌
+                          - strong [ref=e732]: 英文全称是 University of Electronic Science and Technology of China
+                          - text: ‌
+                        - text: ，缩写就是 UESTC。
+                      - listitem [ref=e733]:
+                        - mark [ref=e734]:
+                          - text: ‌
+                          - strong [ref=e735]: 中文简称“成电”
+                          - text: ‌
+                        - text: ，在校园内外都常用这个叫法 。
+                      - listitem [ref=e736]:
+                        - mark [ref=e737]:
+                          - text: ‌
+                          - strong [ref=e738]: 学校性质是公办本科
+                          - text: ‌
+                        - text: ，属于双一流、985、211 高校，由教育部直接管理 。‌‌
+                        - button "参考文档，单指双击即可执行" [ref=e739]:
+                          - generic [ref=e740]: 百科
+                        - text: ‌
+                        - generic [ref=e743]: 
+                  - generic [ref=e748]:
+                    - generic [ref=e749]:
+                      - generic [ref=e750]: 怎么登录网上服务大厅
+                      - text: 
+                    - list [ref=e761]:
+                      - listitem [ref=e762]:
+                        - mark [ref=e763]:
+                          - text: ‌
+                          - strong [ref=e764]: 访问入口
+                          - text: ‌
+                        - text: ：浏览器打开网上服务大厅网址，用统一身份认证账号登录即可 。
+                      - listitem [ref=e765]:
+                        - mark [ref=e766]:
+                          - text: ‌
+                          - strong [ref=e767]: 移动端也能用
+                          - text: ‌
+                        - text: ：微信搜索关注“成电在线”服务号，绑定统一身份认证后，点菜单栏“微网厅”就能办业务 。
+                      - listitem [ref=e768]:
+                        - mark [ref=e769]:
+                          - text: ‌
+                          - strong [ref=e770]: 能办啥事
+                          - text: ‌
+                        - text: ：目前上线了130多个应用服务，包括查成绩、开电子证明、申请虚拟机等，校内校外都能用 。‌‌
+                        - button "参考文档，单指双击即可执行"
+                  - generic [ref=e771]:
+                    - generic [ref=e772]:
+                      - generic [ref=e773]: 想查录取概率去哪看
+                      - text: 
+                    - list [ref=e784]:
+                      - listitem [ref=e785]:
+                        - mark [ref=e786]:
+                          - text: ‌
+                          - strong [ref=e787]: 招生官网有信息
+                          - text: ‌
+                        - text: ：本科招生网上会发布历年录取数据和强基计划录取标准 。
+                      - listitem [ref=e788]:
+                        - mark [ref=e789]:
+                          - text: ‌
+                          - strong [ref=e790]: 预测工具要甄别
+                          - text: ‌
+                        - text: ：部分平台提供录取概率预测功能，但具体分数和专业要求要以学校官方公布为准 。
+                      - listitem [ref=e791]:
+                        - mark [ref=e792]:
+                          - text: ‌
+                          - strong [ref=e793]: 直接问招办更靠谱
+                          - text: ‌
+                        - text: ：有疑问可以联系招生办公室，电话和邮箱在官网都能查到 。‌‌‌
+                        - generic [ref=e794]: 
+                - generic [ref=e800]:
+                  - generic [ref=e802]: 还有其他想了解的？继续向我提问，帮你进一步分析~
+                  - button "继续追问" [ref=e803]
+            - generic [ref=e812] [cursor=pointer]:
+              - generic [ref=e813]: 展开剩余51%内容
+              - generic [ref=e814]: 
+            - generic [ref=e815]:
+              - generic [ref=e816]: AI总结59篇结果生成
+              - generic [ref=e817]:
+                - generic [ref=e821] [cursor=pointer]:
+                  - generic [ref=e822]: 
+                  - generic [ref=e826]: 
+                  - generic [ref=e830]:
+                    - generic [ref=e831]: 
+                    - generic [ref=e837]:
+                      - generic [ref=e838]: uestc
+                      - generic [ref=e843]:
+                        - generic [ref=e844]: 长按识别，即刻体验百度AI
+                        - generic [ref=e845]: 以上内容均由AI生成
+                  - generic [ref=e847]: 
+                - generic [ref=e854]:
+                  - text: 
+                  - generic [ref=e855]: 
+          - generic [ref=e857]:
+            - generic [ref=e858]: 大家还在搜
+            - generic [ref=e859]:
+              - link "UESTC全称" [ref=e860] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=UESTC%E5%85%A8%E7%A7%B0&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=101636703&rsv_dl=0_prs_28608_1
+              - link "成都电子科技大学官网" [ref=e863] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=%E6%88%90%E9%83%BD%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AE%98%E7%BD%91&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=101631161&rsv_dl=0_prs_28608_2
+              - link "uestc网上服务大厅" [ref=e866] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=uestc%E7%BD%91%E4%B8%8A%E6%9C%8D%E5%8A%A1%E5%A4%A7%E5%8E%85&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=101636703&rsv_dl=0_prs_28608_3
+              - link "jwc.uestc.edu cn" [ref=e869] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=jwc.uestc.edu%20cn&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=101631161&rsv_dl=0_prs_28608_4
+              - link "湖南大学uestc" [ref=e872] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=%E6%B9%96%E5%8D%97%E5%A4%A7%E5%AD%A6uestc&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=100631151&rsv_dl=0_prs_28608_5
+              - link "uesc" [ref=e875] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=uesc&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=100631101&rsv_dl=0_prs_28608_6
+              - link "uestc哪个大学" [ref=e878] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=uestc%E5%93%AA%E4%B8%AA%E5%A4%A7%E5%AD%A6&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=100636703&rsv_dl=0_prs_28608_7
+              - link "ueste" [ref=e881] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=ueste&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=100631101&rsv_dl=0_prs_28608_8
+              - link "uestc全国排名" [ref=e884] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=uestc%E5%85%A8%E5%9B%BD%E6%8E%92%E5%90%8D&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=100633101&rsv_dl=0_prs_28608_9
+              - link "uesrc" [ref=e887] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=uesrc&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=100631101&rsv_dl=0_prs_28608_10
+              - link "uestc中山学院" [ref=e890] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=uestc%E4%B8%AD%E5%B1%B1%E5%AD%A6%E9%99%A2&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=100631101&rsv_dl=0_prs_28608_11
+              - link "uestc徐茂邮箱" [ref=e893] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=uestc%E5%BE%90%E8%8C%82%E9%82%AE%E7%AE%B1&fenlei=256&usm=4&ie=utf-8&rsv_pq=be0b8aa1016ca6e6&oq=uestc&rsv_t=dba9b3nYV%2FBQYrKE2S%2Fn78Y4er2PTY42IIDcR30ZS7XPStxFkj4vOnLA3Q4&rsf=100631101&rsv_dl=0_prs_28608_12
+          - generic [ref=e899]:
+            - generic [ref=e901]:
+              - heading [level=3] [ref=e902]:
+                - link "电子科技大学" [ref=e903] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsTdGWh7EaTBiKii4a23PjF_SKZQKM16L9TeL-rgcA938
+              - link "官方" [ref=e907] [cursor=pointer]:
+                - /url: https://aiqicha.baidu.com/feedback/official?from=baidu&type=gw
+            - generic [ref=e909]:
+              - link [ref=e911] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsTdGWh7EaTBiKii4a23PjF_SKZQKM16L9TeL-rgcA938
+              - generic [ref=e916]:
+                - generic [ref=e923]:
+                  - text: 新闻
+                  - emphasis [ref=e924]: UESTC
+                  - text: NEWS 五连冠!我校机器人队勇夺第25届全国大学生机器人大赛ROBOCON冠军 7月9—17日,第25届全国大学生机器人大赛ROBOCON暨2026年亚太大学生机器人大赛国内选拔赛在南京理工大学江阴校区举行。电子科技大学机器人队以第一名的成绩分别通过预选赛、小组赛、淘汰赛、四强赛,最终以11场全胜的成绩再次问鼎冠军,成为全国唯
+                - link "电子科技大学" [ref=e929] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsTdGWh7EaTBiKii4a23PjF_SKZQKM16L9TeL-rgcA938
+                  - generic [ref=e931]: 
+          - generic [ref=e935]:
+            - heading [level=3] [ref=e936]:
+              - link "uestc，uestc，百度百科" [ref=e937] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=NhdAEztwxeYPBe5tPqvfHvSWKxrn5AievGaF44rz_2D40qrsa5p6IFKF6_ixyIAveHSPJgL8POhSbD7SdEv9QcDGl-PBkIziRIgPqXcwbbYKitISxdub5mYVCY96OqDlgUP4lHCJlqMu--7lQBj8GgSsFdmiAmhAK08sM-pKCOClnzgQozlDVzrRJFRtcM8K
+                - emphasis [ref=e938]: uestc
+                - text: "- 百度百科"
+            - generic [ref=e939]:
+              - generic "播放视频" [ref=e940] [cursor=pointer]: 
+              - generic [ref=e948]:
+                - generic "电子科技大学，简称“成电”（UESTC），坐落于四川省成都市，是中华人民共和国教育部直属的全国重点大学，国家首批“211工程”、“985工程”重点建设大学，首批国家“双一流”建设高校。入选111计划、101计划、强基计划、珠峰计划、英才计划、卓越工程师教育培养计划、国家建设高水平大学公派研究生项目、国家卓越工程师学院建设高校。是一所以电子信息科学技术为核心，以工为主，理工渗透，理、工、管、文、医协调发展的多科性研究型大学，被誉为“中国民族电子工业摇篮”和“中国电子类院校排头兵”。学校前身为1956年9月创办的成都电讯工程学院，是在周恩来总理的亲自部署下，由交通大学的电讯工程系、华南工学院的电讯系和南京工学院的无线电系合并创建而成，是新中国第一所无线电大学；1960年被列为全国重点高等学校；1961年划归国防部国防科学技术委员会管理，被确定为七所国防工业院校之一；1970年划归四机部和解放军" [ref=e950]:
+                  - generic [ref=e951]:
+                    - text: 简介：
+                    - emphasis [ref=e952]: uestc
+                    - text: 一般指电子科技大学。 电子科技大学，简称“成电”（
+                    - emphasis [ref=e953]: UESTC
+                    - text: ），坐落于四川省成都市，是中华人民共和国教育部直属的全国重点大学，国家首批“211工程”、“985工程”重点建设大学，首批国家“双一流”建设高校。入选111计划、101计划、强基计划、珠...
+                - generic [ref=e955]:
+                  - link "历史沿革" [ref=e956] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=U0TGQBbWNhVdEAzw6kjjk0K3aA1yB40AGJchJM8bKJqd77lg7RB48-rV_ItDc1euF_6lm1PCDX-Tlld7vfX835-4gmpEjymJh4y-dLgkCBOUZRamnMy28MeIlfyqdvomy3FOxNKL-_wBMRvB3UopNopPc6WZQBdgUSUJUIBfHNzllDKJ2Is0_ofCbURDCWGU
+                  - link "办学条件" [ref=e957] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=U0TGQBbWNhVdEAzw6kjjk0K3aA1yB40AGJchJM8bKJqd77lg7RB48-rV_ItDc1euF_6lm1PCDX-Tlld7vfX835-4gmpEjymJh4y-dLgkCBOUZRamnMy28MeIlfyqdvomy3FOxNKL-_wBMRvB3UopNopPc6WZQBdgUSUJUIBfHN5XbpkfjilE-4VWrnSuNKv0
+                  - link "学术研究" [ref=e958] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=U0TGQBbWNhVdEAzw6kjjk0K3aA1yB40AGJchJM8bKJqd77lg7RB48-rV_ItDc1euF_6lm1PCDX-Tlld7vfX835-4gmpEjymJh4y-dLgkCBOUZRamnMy28MeIlfyqdvomy3FOxNKL-_wBMRvB3UopNopPc6WZQBdgUSUJUIBfHNzmo3ZZXL1DmmjTq2RYXyH_
+                  - link "校园文化" [ref=e959] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=U0TGQBbWNhVdEAzw6kjjk0K3aA1yB40AGJchJM8bKJqd77lg7RB48-rV_ItDc1euF_6lm1PCDX-Tlld7vfX835-4gmpEjymJh4y-dLgkCBOUZRamnMy28MeIlfyqdvomy3FOxNKL-_wBMRvB3UopNopPc6WZQBdgUSUJUIBfHN5azs9t2waK2gm_ondk8nLR
+                  - link "行政管理" [ref=e960] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=U0TGQBbWNhVdEAzw6kjjk0K3aA1yB40AGJchJM8bKJqd77lg7RB48-rV_ItDc1euF_6lm1PCDX-Tlld7vfX835-4gmpEjymJh4y-dLgkCBOUZRamnMy28MeIlfyqdvomy3FOxNKL-_wBMRvB3UopNopPc6WZQBdgUSUJUIBfHN6d5dvvrXQ-pYYArq-ZNH-5
+                  - link "点击可查看更多内容" [ref=e961] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NhdAEztwxeYPBe5tPqvfHvSWKxrn5AievGaF44rz_2D40qrsa5p6IFKF6_ixyIAveHSPJgL8POhSbD7SdEv9QcDGl-PBkIziRIgPqXcwbbYKitISxdub5mYVCY96OqDlgUP4lHCJlqMu--7lQBj8GgSsFdmiAmhAK08sM-pKCOClnzgQozlDVzrRJFRtcM8K
+                    - text: 更多 >
+                - generic [ref=e962]:
+                  - link "百度百科" [ref=e963] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=NhdAEztwxeYPBe5tPqvfHvSWKxrn5AievGaF44rz_2D40qrsa5p6IFKF6_ixyIAveHSPJgL8POhSbD7SdEv9QcDGl-PBkIziRIgPqXcwbbYKitISxdub5mYVCY96OqDlgUP4lHCJlqMu--7lQBj8GgSsFdmiAmhAK08sM-pKCOClnzgQozlDVzrRJFRtcM8K
+                  - generic [ref=e968] [cursor=pointer]: 
+          - generic [ref=e973]:
+            - heading [level=3] [ref=e976]:
+              - link "设备共享收费标准公示-信息与通信工程学院" [ref=e977] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=a9-xdY9SGLMo_7uKscVnAdQhNvjwtla8nRxivZ3u1KCs2GwtDDfS6_uhmd2XQUnducRnwJ7pOI6cOh0l_4gvaq
+            - generic [ref=e984]:
+              - text: 3天前
+              - generic [ref=e985]:
+                - text: 邮箱:wxw@
+                - emphasis [ref=e986]: uestc
+                - text: ".edu.cn 办公地址:科研楼科c101 学院办公室 2026年7月20日 附件【设备共享收费标准模板附件.xlsx】已下载次 下一条:电子科技大学信息与通信工程学院二级单位聘用人员拟录用公示 返回列表 清水河校区地址:成都市高新区(西区)西源大道2006号 电子科技大学清水河校区科研楼b区 邮编:611731 email: ..."
+            - link "头像 电子科技大学" [ref=e991] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=a9-xdY9SGLMo_7uKscVnAdQhNvjwtla8nRxivZ3u1KCs2GwtDDfS6_uhmd2XQUnducRnwJ7pOI6cOh0l_4gvaq
+              - img "头像" [ref=e994]
+              - generic [ref=e995]: 电子科技大学
+              - generic [ref=e996]: 
+          - generic [ref=e1001]:
+            - heading [level=3] [ref=e1004]:
+              - link "University of Electronic Science and Technology of China" [ref=e1005] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsWO3EU0NkwsPEzi6lor5iNdLAYEaT46oxq02S-7bhW3U
+            - generic [ref=e1013]:
+              - text: On July 6, the opening ceremony of the 2026
+              - emphasis [ref=e1014]: UESTC
+              - text: Innovation Practice and International Education Program was held at the Qingshuihe Campus. Cao Ping, Chairperson of the University Council attended and delivered a speech. Vice Presidents Kong Lingjiang and Luo Guangchun attended the ceremony, along...
+            - link "头像 电子科技大学英文官网" [ref=e1019] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsWO3EU0NkwsPEzi6lor5iNdLAYEaT46oxq02S-7bhW3U
+              - img "头像" [ref=e1022]
+              - generic [ref=e1023]: 电子科技大学英文官网
+              - generic [ref=e1024]: 
+          - generic [ref=e1029]:
+            - heading [level=3] [ref=e1032]:
+              - link "电子科技大学信息公开网" [ref=e1033] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=rKjXPeXCeM62fVDEDIK8O0zZ7bTl3KD24TGpH357-K6CAFYokIjcoH3SFG1YabjU
+            - generic [ref=e1041]:
+              - text: 电话:028-61831228 地址:成都市高新西区西源大道2006号主楼B2-816 邮政编码:611731 传真号码:028-61830161 信息公开意见箱:xinxike@
+              - emphasis [ref=e1042]: uestc
+              - text: .edu.cn 监督电话:028-61830237(纪委办公室) 信息公开制度 查看更多 中华人民共和国政府信息公开条例 电子科技大学信息公开审批表 ...
+            - link "电子科技大学信息公开网" [ref=e1047] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=rKjXPeXCeM62fVDEDIK8O0zZ7bTl3KD24TGpH357-K6CAFYokIjcoH3SFG1YabjU
+              - generic [ref=e1049]: 
+          - generic [ref=e1054]:
+            - heading [level=3] [ref=e1057]:
+              - link "电子科技大学国际合作交流处" [ref=e1058] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUwCNhtIFijc_T76n_RJMnvF1-iygA_7NCMYHq-70TpK8_
+            - generic [ref=e1065]:
+              - text: 2026年3月18日
+              - generic [ref=e1066]:
+                - text: 一、结项范围2025年立项的校级项目2项、院级项目6项,卓越奖学金项目2项。二、结项流程已完成项目实施的学院认真填写《2025年来华留学生中国国情教育精品项目结项报告》(见附件),并于2026年12月31日前将结项材料报送至cai@
+                - emphasis [ref=e1067]: uestc
+                - text: .edu.cn,由国际教育学院组织相关人员进行评审......
+            - generic [ref=e1068]:
+              - link [ref=e1070] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUwCNhtIFijc_T76n_RJMnvF1-iygA_7NCMYHq-70TpK8_
+              - link [ref=e1075] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUwCNhtIFijc_T76n_RJMnvF1-iygA_7NCMYHq-70TpK8_
+              - link [ref=e1080] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUwCNhtIFijc_T76n_RJMnvF1-iygA_7NCMYHq-70TpK8_
+              - link "11" [ref=e1085] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUwCNhtIFijc_T76n_RJMnvF1-iygA_7NCMYHq-70TpK8_
+                - generic [ref=e1089]:
+                  - generic [ref=e1090]: 
+                  - text: "11"
+            - link "头像 电子科技大学" [ref=e1095] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=qYDSXdx8fquzorc6D1cTsL8Q5ucKrJFZJyGA1MeTTUwCNhtIFijc_T76n_RJMnvF1-iygA_7NCMYHq-70TpK8_
+              - img "头像" [ref=e1098]
+              - generic [ref=e1099]: 电子科技大学
+              - generic [ref=e1100]: 
+          - generic [ref=e1105]:
+            - heading [level=3] [ref=e1108]:
+              - link "University of Electronic Science and Technology of China |..." [ref=e1109] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=NhdAEztwxeYPBe5tPqvfHq92WqaHasvThQx0Q3hzSG4s3LSEJxuBL1fwEbIhAmmF_4Iii6xDsVXTJ_ltYLoNu-HhoeVKLWlFlfAQ2iiOno_lA65v_GZERVvxlp5gXfG1jpRkq3PMFFCG6crB_kBuogCIVTV86msJdUcFSnBw98a
+            - generic [ref=e1112]:
+              - link [ref=e1114] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=NhdAEztwxeYPBe5tPqvfHq92WqaHasvThQx0Q3hzSG4s3LSEJxuBL1fwEbIhAmmF_4Iii6xDsVXTJ_ltYLoNu-HhoeVKLWlFlfAQ2iiOno_lA65v_GZERVvxlp5gXfG1jpRkq3PMFFCG6crB_kBuogCIVTV86msJdUcFSnBw98a
+              - generic [ref=e1119]:
+                - generic [ref=e1126]:
+                  - text: with a history of over 3000 years.
+                  - emphasis [ref=e1127]: uestc
+                  - text: was founded by the merging of the ...
+                - link "TimesHigherEducation" [ref=e1132] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=NhdAEztwxeYPBe5tPqvfHq92WqaHasvThQx0Q3hzSG4s3LSEJxuBL1fwEbIhAmmF_4Iii6xDsVXTJ_ltYLoNu-HhoeVKLWlFlfAQ2iiOno_lA65v_GZERVvxlp5gXfG1jpRkq3PMFFCG6crB_kBuogCIVTV86msJdUcFSnBw98a
+                  - generic [ref=e1134]: 
+        - generic [ref=e1138]:
+          - generic [ref=e1139]: 相关搜索
+          - table [ref=e1140]:
+            - rowgroup [ref=e1141]:
+              - row [ref=e1142]:
+                - cell [ref=e1143]:
+                  - link "成都电子科技大学官网" [ref=e1144] [cursor=pointer]:
+                    - /url: /s?wd=%E6%88%90%E9%83%BD%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%AE%98%E7%BD%91&tn=baidu&rsf=101631161&rsp=0&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_1
+                - cell [ref=e1147]:
+                  - link "uestc网上服务大厅" [ref=e1148] [cursor=pointer]:
+                    - /url: /s?wd=uestc%E7%BD%91%E4%B8%8A%E6%9C%8D%E5%8A%A1%E5%A4%A7%E5%8E%85&tn=baidu&rsf=101636703&rsp=1&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_2
+              - row [ref=e1151]:
+                - cell [ref=e1152]:
+                  - link "UESTC全称" [ref=e1153] [cursor=pointer]:
+                    - /url: /s?wd=UESTC%E5%85%A8%E7%A7%B0&tn=baidu&rsf=101636703&rsp=2&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_3
+                - cell [ref=e1156]:
+                  - link "UESTC是985还是211" [ref=e1157] [cursor=pointer]:
+                    - /url: /s?wd=UESTC%E6%98%AF985%E8%BF%98%E6%98%AF211&tn=baidu&rsf=101636703&rsp=3&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_4
+              - row [ref=e1160]:
+                - cell [ref=e1161]:
+                  - link "jwc.uestc.edu cn" [ref=e1162] [cursor=pointer]:
+                    - /url: /s?wd=jwc.uestc.edu%20cn&tn=baidu&rsf=101631161&rsp=4&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_5
+                - cell [ref=e1165]:
+                  - link "wuestc" [ref=e1166] [cursor=pointer]:
+                    - /url: /s?wd=wuestc&tn=baidu&rsf=100631151&rsp=5&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_6
+              - row [ref=e1169]:
+                - cell [ref=e1170]:
+                  - link "uestcedu" [ref=e1171] [cursor=pointer]:
+                    - /url: /s?wd=uestcedu&tn=baidu&rsf=100633101&rsp=6&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_7
+                - cell [ref=e1174]:
+                  - link "eportal.uestc.edu cn" [ref=e1175] [cursor=pointer]:
+                    - /url: /s?wd=eportal.uestc.edu%20cn&tn=baidu&rsf=100631161&rsp=7&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_8
+              - row [ref=e1178]:
+                - cell [ref=e1179]:
+                  - link "uestc徐茂邮箱" [ref=e1180] [cursor=pointer]:
+                    - /url: /s?wd=uestc%E5%BE%90%E8%8C%82%E9%82%AE%E7%AE%B1&tn=baidu&rsf=100631101&rsp=8&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_9
+                - cell [ref=e1183]:
+                  - link "ueset" [ref=e1184] [cursor=pointer]:
+                    - /url: /s?wd=ueset&tn=baidu&rsf=100631151&rsp=9&f=1&rs_src=0&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&rsv_dl=brs_28338_10
+      - generic [ref=e1189]:
+        - link:
+          - /url: ""
+        - strong [ref=e1190]:
+          - generic [ref=e1191]: "1"
+        - link "2" [ref=e1192] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=10&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=
+        - link "3" [ref=e1194] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=20&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=
+        - link "4" [ref=e1196] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=30&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=
+        - link "5" [ref=e1198] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=40&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=
+        - link "6" [ref=e1200] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=50&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=
+        - link "7" [ref=e1202] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=60&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=
+        - link "8" [ref=e1204] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=70&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=
+        - link "9" [ref=e1206] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=80&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=
+        - link "10" [ref=e1208] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=90&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=
+        - link [ref=e1210] [cursor=pointer]:
+          - /url: /s?wd=uestc&pn=10&oq=uestc&ie=utf-8&usm=4&fenlei=256&rsv_idx=1&rsv_pq=be0b8aa1016ca6e6&rsv_t=f1a3YEYoi72f5Q%2BqTW0JkYxaoXUHuPC6hAujhcRluLxMCPJ21viOZl5oC%2FI&topic_pn=&rsv_page=1
+      - generic [ref=e1215]:
+        - link "帮助" [ref=e1216] [cursor=pointer]:
+          - /url: https://help.baidu.com/question?prod_id=1
+        - link "举报" [ref=e1217] [cursor=pointer]:
+          - /url: https://help.baidu.com/jubao?source=search
+        - link "用户反馈" [ref=e1218] [cursor=pointer]:
+          - /url: javascript:;
+        - link "企业推广" [ref=e1219] [cursor=pointer]:
+          - /url: https://e.baidu.com/lp/search/?refer=1298
